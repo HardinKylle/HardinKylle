@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Kylle Hardin 👋
 
-<!--
-**HardinKylle/HardinKylle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A fourth-year Computer Science student specializing in Software Engineering.
 
-Here are some ideas to get you started:
+I am passionate about building software that solves real-world problems. My journey into programming has been driven by a love for problem-solving and the satisfaction that comes from making things work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Tech Stack
+
+| **Languages** | **Frameworks/Libraries** | **Databases** | **Tools** |
+|---|---|---|---|
+| JavaScript | React.js | MySQL | Git & GitHub |
+| Java | Firebase | Oracle | VS Code |
+| C++ | Google API | | Version Control |
+| PHP | | | |
+| Kotlin| | | |
+| SQL | | | |
+| HTML/CSS| | | |
+
+---
+
+### 📫 How to reach me:
+* **Email:** [mariushardin@gmail.com](mailto:mariushardin@gmail.com)
+* **LinkedIn:** [Kylle Marius Hardin](https://www.linkedin.com/in/kylle-marius-hardin-289369384/)
+
+---
