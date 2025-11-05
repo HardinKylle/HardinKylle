@@ -41,7 +41,7 @@ I want to create software that can genuinely help or entertain me and others.
 
 ### 📫 How to reach me:
 * **Email:** [mariushardin@gmail.com](mailto:mariushardin@gmail.com)
-* **LinkedIn:** [Kylle Marius Hardin](https://www.linkedin.com/in/kylle-marius-hardin-289369384/)
+* **LinkedIn:** [Kylle Hardin](https://www.linkedin.com/in/kylle-hardin/)
 
 ---
 
