@@ -12,33 +12,15 @@ exploring→ AI agent orchestration  ·  Cloudflare Workers
 ask me   → React, TypeScript, building audio in the browser
 ```
 
-### Selected work
-
-**[THUMP](https://github.com/HardinKylle/thump)** — a tactile browser groovebox. Sequence a beat
-on a 16-step grid, shape the sound, export a WAV. Built with React + Tone.js, designed like a
-piece of hardware. → [thump-beat.vercel.app](https://thump-beat.vercel.app)
-
-**[Portfolio v2](https://kyllehardin.vercel.app)** — my personal site. A Vite + React SPA with a
-custom, mostly-offline chatbot that answers from a local knowledge base and only escalates to an
-LLM when it has to.
-
-**Amazing Heartists** — a creative web project. → [amazing-heartists.vercel.app](https://amazing-heartists.vercel.app)
-
-**[agent-kit](https://github.com/HardinKylle/agent-kit)** — a reusable toolkit and standard for
-running autonomous multi-agent builds (orchestrator + implementer + specialist roles).
-
 ### Stack
 
-```
-core      TypeScript · JavaScript · React · Vite · Node
-also      Java · C++ · Kotlin · PHP · SQL
-audio/ml  Tone.js · Cloudflare Workers AI
-infra     Vercel · Cloudflare · Firebase · MySQL · Oracle · Git
-```
+<img src="./assets/stack.svg" alt="TypeScript, JavaScript, React, Vite, Node, Java, C++, Kotlin, PHP, MySQL, SQL, Firebase, Vercel, Cloudflare, Git" />
 
 ### Reach me
 
-[mariushardin@gmail.com](mailto:mariushardin@gmail.com)  ·  [LinkedIn](https://www.linkedin.com/in/kylle-hardin/)  ·  [Portfolio](https://kyllehardin.vercel.app)
+<a href="mailto:mariushardin@gmail.com"><img src="https://img.shields.io/badge/Email-181818?style=flat-square&logo=gmail&logoColor=FF4D1C" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/kylle-hardin/"><img src="https://img.shields.io/badge/LinkedIn-181818?style=flat-square&logo=linkedin&logoColor=FF4D1C" alt="LinkedIn" /></a>
+<a href="https://kyllehardin.vercel.app"><img src="https://img.shields.io/badge/Portfolio-181818?style=flat-square&logo=vercel&logoColor=FF4D1C" alt="Portfolio" /></a>
 
 ---
 
