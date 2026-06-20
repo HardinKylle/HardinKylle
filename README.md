@@ -1,5 +1,5 @@
 <a href="https://kyllehardin.vercel.app">
-  <img src="./assets/header.svg" alt="Kylle Hardin — Software Engineer" width="100%" />
+  <img src="./assets/header.v2.svg" alt="Kylle Hardin — Software Engineer" width="100%" />
 </a>
 
 I'm a software engineer who likes building things that genuinely **help or entertain** —
@@ -14,7 +14,7 @@ ask me   → React, TypeScript, building audio in the browser
 
 ### Stack
 
-<img src="./assets/stack.svg" alt="TypeScript, JavaScript, React, Vite, Node, Java, C++, Kotlin, PHP, MySQL, SQL, Firebase, Vercel, Cloudflare, Git" />
+<img src="./assets/stack.v2.svg" alt="TypeScript, JavaScript, React, Vite, Node, Java, C++, Kotlin, PHP, MySQL, SQL, Firebase, Vercel, Cloudflare, Git" />
 
 ### Reach me
 
