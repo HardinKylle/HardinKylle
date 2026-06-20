@@ -18,9 +18,9 @@ ask me   → React, TypeScript, building audio in the browser
 
 ### Reach me
 
-<a href="mailto:mariushardin@gmail.com"><img src="https://img.shields.io/badge/Email-181818?style=flat-square&logo=gmail&logoColor=FF4D1C" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/kylle-hardin/"><img src="https://img.shields.io/badge/LinkedIn-181818?style=flat-square&logo=linkedin&logoColor=FF4D1C" alt="LinkedIn" /></a>
-<a href="https://kyllehardin.vercel.app"><img src="https://img.shields.io/badge/Portfolio-181818?style=flat-square&logo=vercel&logoColor=FF4D1C" alt="Portfolio" /></a>
+<a href="mailto:mariushardin@gmail.com"><img src="./assets/btn-email.svg" alt="Email" height="44" /></a>
+<a href="https://www.linkedin.com/in/kylle-hardin/"><img src="./assets/btn-linkedin.svg" alt="LinkedIn" height="44" /></a>
+<a href="https://kyllehardin.vercel.app"><img src="./assets/btn-portfolio.svg" alt="Portfolio" height="44" /></a>
 
 ---
 
