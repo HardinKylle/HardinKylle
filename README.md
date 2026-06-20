@@ -7,14 +7,14 @@ polished web apps, playful browser audio toys, and the tooling that lets me ship
 I care about clean architecture, opinionated design, and automating the boring parts.
 
 ```
-now      → THUMP, a browser groovebox  ·  refining my portfolio
-exploring→ AI agent orchestration  ·  Cloudflare Workers
-ask me   → React, TypeScript, building audio in the browser
+now        →  THUMP, a browser groovebox · refining my portfolio
+exploring  →  AI agent orchestration · Cloudflare Workers
+ask me     →  React, TypeScript, building audio in the browser
 ```
 
 ### Stack
 
-<img src="./assets/stack.v2.svg" alt="TypeScript, JavaScript, React, Vite, Node, Java, C++, Kotlin, PHP, MySQL, SQL, Firebase, Vercel, Cloudflare, Git" />
+<img src="./assets/stack.v3.svg" alt="TypeScript, JavaScript, React, Vite, Node, Java, C++, Kotlin, PHP, MySQL, PostgreSQL, Firebase, Vercel, Cloudflare, Git, HTML5" />
 
 ### Reach me
 
